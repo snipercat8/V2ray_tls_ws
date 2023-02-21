@@ -292,7 +292,7 @@ download_v2ray() {
      # echo 'error: Check failed! Please check your network or try again.'
       #return 1
     #fi
-  done
+  #done
 }
 
 decompression() {
