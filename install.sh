@@ -321,7 +321,7 @@ v2ray_install() {
     fi
     mkdir -p /root/v2ray
     cd /root/v2ray || exit
-    wget --no-check-certificate "https://raw.githubusercontent.com/taurusni/V2ray_tls_ws/${github_branch}/v2fly_224e431/install-release.sh"
+    wget --no-check-certificate "https://raw.githubusercontent.com/snipercat8/V2ray_tls_ws/master/v2fly_224e431/install-release.sh"
 
     if [[ -f install-release.sh ]]; then
         rm -rf $v2ray_systemd_file
