@@ -10,7 +10,7 @@
 
 Vmess+websocket+TLS+Nginx+Website
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/taurusni/V2ray_tls_ws/master/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/snipercat8/V2ray_tls_ws/master/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 **注意**: 
